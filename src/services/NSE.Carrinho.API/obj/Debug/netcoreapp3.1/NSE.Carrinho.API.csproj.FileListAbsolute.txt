@@ -1,6 +1,5 @@
 C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\services\NSE.Carrinho.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.csprojAssemblyReference.cache
 C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.AssemblyInfoInputs.cache
 C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.AssemblyInfo.cs
@@ -18,3 +17,4 @@ C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\services\NSE.Carrinh
 C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.dll
 C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.pdb
 C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\NSE.Carrinho.API.genruntimeconfig.cache
+C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\services\NSE.Carrinho.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\NSE.Carrinho.API.styles.css
