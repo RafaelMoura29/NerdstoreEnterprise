@@ -1,0 +1,9 @@
+C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.deps.json
+C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csprojAssemblyReference.cache
+C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfoInputs.cache
+C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfo.cs
+C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csproj.CoreCompileInputs.cache
+C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.pdb
