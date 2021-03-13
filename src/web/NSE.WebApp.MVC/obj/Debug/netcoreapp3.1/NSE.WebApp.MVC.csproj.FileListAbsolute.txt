@@ -362,3 +362,4 @@ C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\b
 C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.Views.pdb
 C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.csproj.CopyComplete
 C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.genruntimeconfig.cache
+C:\Users\rafaelserafim\personal-dev\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
